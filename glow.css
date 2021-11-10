@@ -1,0 +1,20 @@
+/* #glow {
+    font-size: 50px;
+    color: #fff;
+    text-align: center;
+    animation: glow 1s ease-in-out infinite alternate;
+  }
+  
+  @-webkit-keyframes glow {
+    from {
+      text-shadow: 0 0 1px #fff, 0 0 2px #fff, 0 0 3px #0078ff, 0 0 4px #0078ff, 0 0 5px #0078ff, 0 0 6px #0078ff, 0 0 7px #0078ff;
+    }
+    
+    to {
+        text-shadow: 0 0 2px #fff, 0 0 3px #173150, 0 0 4px #173150, 0 0 6px #173150, 0 0 8px #173150, 0 0 10px #173150, 0 0 10px #173150;
+    }
+  }
+   */
+
+
+ 
